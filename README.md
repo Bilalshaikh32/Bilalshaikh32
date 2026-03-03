@@ -1,6 +1,16 @@
-# 💫 About Me:
- I’m currently working on Full-stack web development projects<br> I’m looking to collaborate onWeb development projects.<br> I’m looking for help withReact.js & modern JavaScript practices Node.js & MongoDB integration<br> I’m currently learning React.js Node.js & Express MongoDB<br>Ask me about Frontend + Backend integration Database design 
+# 💫 About Me
 
+I am a Full-Stack MERN Developer building modern, scalable web applications.  
+I specialize in **frontend & backend integration**, **database design**, and creating seamless user experiences.
+
+I enjoy collaborating on web development projects and exploring innovative solutions using **React.js, Node.js, Express, and MongoDB**.  
+
+Currently, I am expanding my expertise in **R Programming & Data Analytics** to evolve as a Hybrid Full-Stack + Data/ML Developer.  
+
+Ask me about:  
+- Frontend + Backend integration  
+- Database architecture & optimization  
+- Modern JavaScript & React best practices
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/bilasheikh.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilal-sheikh-0736b031a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Mr_bilal2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BilalSheik6227) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sheikh muhammad Bilal ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilal2023sheikh@gmail.com) 
